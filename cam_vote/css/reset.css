@@ -1,0 +1,28 @@
+body {
+  background: #98C9FF url(../images/bg_ue.png) no-repeat;
+  background-size: cover;
+}
+
+#wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+#contents {
+  /*background-color: rgba(82,165,255,0.5);*/
+}
+
+.box1 {
+  background-color: #FFF;
+  padding:1%;
+  margin:1% auto;
+  border-radius:3px;
+}
+
+.btn {
+  display:block;
+}
+
+.pink {
+  color: #fe88ae;
+}
